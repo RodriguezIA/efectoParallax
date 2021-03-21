@@ -1,0 +1,12 @@
+{
+  "name": "rocket-landing-master",
+  "version": "1.0.0",
+  "description": "Looking for some inspiration? This is a very fast and minimal landing page, made with Parallax, Pageable and Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
